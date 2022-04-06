@@ -23,7 +23,7 @@ public class Swimmer1 {
 
     /** Return the fastest lap time. */
     public double bestLapTime() {
-        // TODO: implement! allan = dum
+        // TODO: implement!
         double bestTime = getLapTimes().get(0);
         for (int i = 0; i < getLapTimes().size(); i++ ){
             if (bestTime > getLapTimes().get(i)){
