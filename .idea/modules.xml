@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/L01 Intro/L01 Intro.iml" filepath="$PROJECT_DIR$/L01 Intro/L01 Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L04 Klasser og objekter/L04 Klasser og objekter.iml" filepath="$PROJECT_DIR$/L04 Klasser og objekter/L04 Klasser og objekter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05 Typer/L05 Typer.iml" filepath="$PROJECT_DIR$/L05 Typer/L05 Typer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06 If &amp; scanner/L06 If &amp; scanner.iml" filepath="$PROJECT_DIR$/L06 If &amp; scanner/L06 If &amp; scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L07 Opsamling/L07 Opsamling.iml" filepath="$PROJECT_DIR$/L07 Opsamling/L07 Opsamling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L08 While loops/L08 While loops.iml" filepath="$PROJECT_DIR$/L08 While loops/L08 While loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L09 for loops/L09 for loops.iml" filepath="$PROJECT_DIR$/L09 for loops/L09 for loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L10 Projekt 1 Dice games/L10 Projekt 1 Dice games.iml" filepath="$PROJECT_DIR$/L10 Projekt 1 Dice games/L10 Projekt 1 Dice games.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L12 Array/L12 Array.iml" filepath="$PROJECT_DIR$/L12 Array/L12 Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L13 2D Array/L13 2D Array.iml" filepath="$PROJECT_DIR$/L13 2D Array/L13 2D Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L14 ArrayList/L14 ArrayList.iml" filepath="$PROJECT_DIR$/L14 ArrayList/L14 ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L15 GUI/L15 GUI.iml" filepath="$PROJECT_DIR$/L15 GUI/L15 GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L16 GUI/L16 GUI.iml" filepath="$PROJECT_DIR$/L16 GUI/L16 GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L17 Specifikationer/L17 Specifikationer.iml" filepath="$PROJECT_DIR$/L17 Specifikationer/L17 Specifikationer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L18 &amp; 19 Yatzy/L18 &amp; 19 Yatzy.iml" filepath="$PROJECT_DIR$/L18 &amp; 19 Yatzy/L18 &amp; 19 Yatzy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L20 Forbindelser/L20 Forbindelser.iml" filepath="$PROJECT_DIR$/L20 Forbindelser/L20 Forbindelser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L21 Forbindelser/L21 Forbindelser.iml" filepath="$PROJECT_DIR$/L21 Forbindelser/L21 Forbindelser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L22 Arkitektur/L22 Arkitektur.iml" filepath="$PROJECT_DIR$/L22 Arkitektur/L22 Arkitektur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L23 Enumeration/L23 Enumeration.iml" filepath="$PROJECT_DIR$/L23 Enumeration/L23 Enumeration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion02 Shapes/Lektion02 Shapes.iml" filepath="$PROJECT_DIR$/Lektion02 Shapes/Lektion02 Shapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lektion04 Klasser.iml" filepath="$PROJECT_DIR$/Lektion04 Klasser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lektion04 Klasser/Objekter.iml" filepath="$PROJECT_DIR$/lektion04 Klasser/Objekter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRO1-Project.iml" filepath="$PROJECT_DIR$/PRO1-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L28/hierakier 2.iml" filepath="$PROJECT_DIR$/L28/hierakier 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L27/type hierarkier.iml" filepath="$PROJECT_DIR$/L27/type hierarkier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L27/untitled/untitled.iml" filepath="$PROJECT_DIR$/L27/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
