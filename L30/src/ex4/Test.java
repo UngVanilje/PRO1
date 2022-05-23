@@ -31,7 +31,6 @@ public class Test {
         players1.add(p6);
 
 
-
         System.out.println(findPlayerLinear(players, 56));
         System.out.println(findPlayerBinary(players1, 80));
         System.out.println("Spiller der passer med krav: " + findPlayerName(players1));
@@ -76,4 +75,5 @@ public class Test {
         }
         return player;
     }
+
 }

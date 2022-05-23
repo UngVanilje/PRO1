@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/L32/Files &amp; Exceptions.iml" filepath="$PROJECT_DIR$/L32/Files &amp; Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/L01 Intro/L01 Intro.iml" filepath="$PROJECT_DIR$/L01 Intro/L01 Intro.iml" />
       <module fileurl="file://$PROJECT_DIR$/L04 Klasser og objekter/L04 Klasser og objekter.iml" filepath="$PROJECT_DIR$/L04 Klasser og objekter/L04 Klasser og objekter.iml" />
       <module fileurl="file://$PROJECT_DIR$/L05 Typer/L05 Typer.iml" filepath="$PROJECT_DIR$/L05 Typer/L05 Typer.iml" />
@@ -26,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lektion04 Klasser.iml" filepath="$PROJECT_DIR$/Lektion04 Klasser.iml" />
       <module fileurl="file://$PROJECT_DIR$/lektion04 Klasser/Objekter.iml" filepath="$PROJECT_DIR$/lektion04 Klasser/Objekter.iml" />
       <module fileurl="file://$PROJECT_DIR$/PRO1-Project.iml" filepath="$PROJECT_DIR$/PRO1-Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L31/Sortering.iml" filepath="$PROJECT_DIR$/L31/Sortering.iml" />
       <module fileurl="file://$PROJECT_DIR$/L30/Søgning.iml" filepath="$PROJECT_DIR$/L30/Søgning.iml" />
       <module fileurl="file://$PROJECT_DIR$/L28/hierakier 2.iml" filepath="$PROJECT_DIR$/L28/hierakier 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/L27/type hierarkier.iml" filepath="$PROJECT_DIR$/L27/type hierarkier.iml" />
