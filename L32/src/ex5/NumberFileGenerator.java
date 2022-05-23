@@ -1,4 +1,4 @@
-package opg5;
+package ex5;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;

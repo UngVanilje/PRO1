@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class Tester {
     public static void main(String[] args) {
-        File out = new File("L32/src/ex2/Output.txt");
+        File out = new File("L32/src/ex3/Output.txt");
 
         try (Scanner scanner = new Scanner(System.in);
              PrintWriter writer = new PrintWriter(out)) {
