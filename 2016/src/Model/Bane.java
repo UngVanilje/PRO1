@@ -35,8 +35,23 @@ public class Bane {
         return reservation;
     }
 
-    public void addReservation(Reservation reservation) {
-        reservationer.add(reservation);
+//    public void addReservation(Reservation reservation) {
+//        reservationer.add(reservation);
+//    }
+    public void addReservation(Reservation reservation){
+        for (int i = 0; i < reservationer.size() - 1; i++) {
+            int nyPlads = i;
+            for (int j = i + 1; j < reservationer.size(); j++) {
+                if (reservation.compareTo(reservationer.get(nyPlads)) < 0) {
+                    nyPlads = j;
+                }
+            }
+            if (nyPlads != i) {
+                Reservation temp = reservationer.get(i);
+                reservationer.set(i, reservationer.get(nyPlads));
+                reservationer.set(nyPlads, temp);
+            }
+        }
     }
 
     public boolean isLedig(LocalDate dato, LocalTime tid) {
