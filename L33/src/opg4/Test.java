@@ -1,39 +1,39 @@
-package opg3;
+package opg4;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
-import java.util.InputMismatchException;
 import java.util.Scanner;
-
-import static java.lang.System.in;
 
 public class Test {
     public static void main(String[] args) {
 
+        findFællesTal("filename1", "filename2", "fællestal");
 
-        fletAlleHeltal("tal1.txt","tal2.txt" , "samlet");
     }
-
-    public static void fletAlleHeltal(String fileName1, String fileName2, String fileNameNy) {
-        File file1 = new File("L33/src/opg3/tal1.txt");
-        File file2 = new File("L33/src/opg3/tal2.txt");
-        File newFile = new File("L33/src/opg3/Heltal.txt");
+    public static void findFællesTal(String filename1, String filename2, String newFileName) {
+        File file1 = new File("L33/src/opg4/filename1");
+        File file2 = new File("L33/src/opg4/filename2");
+        File newFile = new File("L33/src/opg4/fællestal.txt");
 
         try (Scanner scanner1 = new Scanner(file1);
              Scanner scanner2 = new Scanner(file2);
              PrintWriter writer = new PrintWriter(newFile)) {
             int k = scanner1.nextInt();
             int j = scanner2.nextInt();
+            int b = 0;
             while (scanner1.hasNextInt() && scanner2.hasNextInt()) {
-                    if (k < j) {
-                        writer.println(k);
-                        k = scanner1.nextInt();
-                    }
-                    else  {
-                        writer.println(j);
-                        j = scanner2.nextInt();
-                    }
+                if (k == j) {
+                    writer.println(k);
+                    k = scanner1.nextInt();
+                    j = scanner2.nextInt();
+                }
+                else if(j < k){
+                    j = scanner2.nextInt();
+                }
+                else {
+                    k = scanner1.nextInt();
+                }
             }
             while (scanner1.hasNextInt()){
                 writer.println(k);
@@ -49,4 +49,3 @@ public class Test {
         }
     }
 }
-
