@@ -47,7 +47,7 @@ public class Controller {
     }
 
     public static void writeLedigeTider(LocalDate dato, String filnavn) throws FileNotFoundException {
-        File out = new File("2016/src/Controller/LedigeTider");
+        File out = new File("2016/src/Controller/Controller");
         ArrayList<LocalTime> tid = null;
 
          try (PrintWriter writer = new PrintWriter("Output.txt")){
